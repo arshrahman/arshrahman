@@ -5,7 +5,10 @@ Senior AI Engineer at [Jenni AI](https://jenni.ai), an AI research and writing a
 **What I work on**
 
 - **Citation search:** the vector index of 10M+ full-text papers and 138M+ abstracts behind Jenni's citations, with in-house ranking for relevance and quality.
-- **[AI Reviews](https://jenni.ai/reviews):** I built and own the agents that proofread, catch hallucinated claims and peer-review papers, with 1M+ reviews run.
+- **[AI Reviews](https://jenni.ai/reviews):** I built and own Jenni's Reviews, with 1M+ reviews run.
+  - **Proofread** fixes grammar, spelling and clarity.
+  - **Claim Confidence** checks every claim against the research literature, flags hallucinated ones and backs the rest with highly relevant supporting citations.
+  - **Peer Review** is an agentic peer review pipeline built on state-of-the-art research ([DeepReviewer 2.0](https://arxiv.org/pdf/2604.09590), [ScholarPeer](https://arxiv.org/pdf/2601.22638)).
 - **Evals and experiments:** benchmarks on real production data and A/B tests for every model and prompt change.
 - **Agent-first engineering:** I orchestrate coding agents and own the design, review and verification.
 
