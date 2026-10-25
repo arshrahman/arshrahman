@@ -4,7 +4,7 @@ Senior AI Engineer at [Jenni AI](https://jenni.ai), an AI research and writing a
 
 **What I work on**
 
-- **Citation search:** the vector index of 10M+ full-text papers and 138M+ abstracts behind Jenni's citations, with in-house ranking for relevance and quality.
+- **Citation search:** the search behind Jenni's citations: a vector index of 10M+ full-text open-access papers plus abstracts across the research literature, with in-house ranking for relevance and quality.
 - **[AI Reviews](https://jenni.ai/reviews):** I built and own Jenni's Reviews, with 1M+ reviews run.
   - **Proofread** fixes grammar, spelling and clarity.
   - **Claim Confidence** checks every claim against the research literature, flags hallucinated ones and backs the rest with highly relevant supporting citations.
